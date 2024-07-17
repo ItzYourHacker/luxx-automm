@@ -1,0 +1,260 @@
+{
+    "guilds": {
+        "pAJtpgBQlP": {
+            "private": "00d7dbf95f8af6bc9e2ef25bd5b736add757a1d22692b1829a09a91b2abca3a6",
+            "addy": "LTtmE1j8BQEhmp4TwoTRT31tN6itSd1gXZ",
+            "id": "pAJtpgBQlP",
+            "owner": 0,
+            "reciev": 0,
+            "amount": 0,
+            "onwer": 879925738151747585
+        },
+        "TzqRgSArQV": {
+            "private": "530fb42ef4b5ff7cb2475c81660ba16d4d958c57a3e0bb1e3cd834fa4287a9e7",
+            "addy": "LZmUrGUEp6FSdug9F64DLvFeEYHxhEsRSm",
+            "id": "TzqRgSArQV",
+            "owner": 0,
+            "reciev": 1094102183399669821,
+            "amount": 0.1,
+            "onwer": 879925738151747585
+        },
+        "yyWvQOdXgf": {
+            "private": "b74cd2165205686bcde32ee385b0207fea16c8c048b374ccdcc60a6ea257aa4d",
+            "addy": "LRQA19CUVJD7abLvXK9FC5kme1Eg7ZGdGk",
+            "id": "yyWvQOdXgf",
+            "owner": 0,
+            "reciev": 1094102183399669821,
+            "amount": 1.01,
+            "onwer": 879925738151747585
+        },
+        "ecChjjTyPJ": {
+            "private": "ab2a9fceee15ac12d4a5949d1b4971f46d046da3a59be1d8e0d86d62132083b7",
+            "addy": "LaFKTjBLHJRsnNPqUF6DPESCA2P3fFucfN",
+            "id": "ecChjjTyPJ",
+            "owner": 0,
+            "reciev": 879925738151747585,
+            "amount": 0.1,
+            "onwer": 1004741916207894579
+        },
+        "grzgoBoXeG": {
+            "private": "0e2454896eb09886e2adafa5001fa197cec4164633be2475803bc8265b8eed04",
+            "addy": "LRu1W5F5WEdwVp2jzrwpm3tTxS33aA86qU",
+            "id": "grzgoBoXeG",
+            "owner": 0,
+            "reciev": 1094102183399669821,
+            "amount": 0.1,
+            "onwer": 879925738151747585
+        },
+        "IzUUErhGcC": {
+            "private": "962c0151bc5961902ba731d05d2d34a870986ba0fd39bebc46bb33ed392692e0",
+            "addy": "LZeSEKru7DtympZ1QWcWNJkABQUCmS9Sne",
+            "id": "IzUUErhGcC",
+            "owner": 0,
+            "reciev": 1094102183399669821,
+            "amount": 0.09,
+            "onwer": 879925738151747585
+        },
+        "oGpmLZXDfq": {
+            "private": "124166fba5665c58e440803de1b26ed1b54c497aea0777d58a9d79ae5c6a3445",
+            "addy": "LSuY3vMQEsi6H2mZNJMHMSP5zrEvpunn8u",
+            "id": "oGpmLZXDfq",
+            "owner": 0,
+            "reciev": 1094102183399669821,
+            "amount": 0.1,
+            "onwer": 879925738151747585
+        },
+        "eSwZPyqQxw": {
+            "private": "232cc20e63b9f13cc7ded4da89d9e7349558a048cc85e83b84e4fa6ec4549b22",
+            "addy": "LZmXfiYKfhwXfo8pe3bWEDmhS9PLxaUcT8",
+            "id": "eSwZPyqQxw",
+            "owner": 0,
+            "reciev": 1094102183399669821,
+            "amount": 0.1,
+            "onwer": 879925738151747585
+        },
+        "uutAsMCMnD": {
+            "private": "e9ae1550248e06bcd1c4788b5abd5f6fff5ab35b6ef2b320c79bc22225925736",
+            "addy": "LSy52VHdMYBVGs9earMWjtKZm9Hcgr5YwF",
+            "id": "uutAsMCMnD",
+            "owner": 1094102183399669821,
+            "reciev": 1094102183399669821,
+            "amount": 0.1
+        },
+        "lcBRBBwxGB": {
+            "private": "fd60160a6494a89bf422445921c5f5f4313a2bf0bed8cf9fb7de079e2068b402",
+            "addy": "LSGm6aTLLQQY2f7V7gtg9XKsQ2xAioo6py",
+            "id": "lcBRBBwxGB",
+            "owner": 1010556755417255986,
+            "reciev": 879925738151747585,
+            "amount": 0
+        },
+        "VpMwpmJqAw": {
+            "private": "7d9b440bb3e2b4bcf020b21fe3c5a5bcc7bbfb669ca8de5c39db8c9f1c2e55ba",
+            "addy": "Ld1z3nJqmt1hDPNBxJSW6Rk9bHb1M8M5Hb",
+            "id": "VpMwpmJqAw",
+            "owner": 1010556755417255986,
+            "reciev": 879925738151747585,
+            "amount": 0
+        },
+        "prvinAQDpt": {
+            "private": "6822732fe004795c54dd246dc9ca7822c90a9850935106961a885137681b1ae8",
+            "addy": "LVe7BdhDwxQ34dpkCb1mVXGsz4aBsRSumR",
+            "id": "prvinAQDpt",
+            "owner": 1010556755417255986,
+            "reciev": 0,
+            "amount": 0
+        },
+        "PBVLEhSEGH": {
+            "private": "cddbd57c7c1c52dfa21ad9472069fbfb9c88e9fa34c3a203f27bc0311e37dd7e",
+            "addy": "LgphD5SZzX5xXDEiZCxQoNMxSZRooCQyru",
+            "id": "PBVLEhSEGH",
+            "owner": 879925738151747585,
+            "reciev": 1094102183399669821,
+            "amount": 0.09
+        },
+        "vwTyxswHDR": {
+            "private": "429ff734c76121573376e948b1e74e05d7b5a6327e5a2cd5b988129f111b12a0",
+            "addy": "LLvAK1kxmodFZpBx4DWKNzpGdftbMjAyPB",
+            "id": "vwTyxswHDR",
+            "owner": 1094102183399669821,
+            "reciev": 879925738151747585,
+            "amount": 0.1
+        },
+        "TrvFtKbMoM": {
+            "private": "3c3dca384bf4cf13ae1f63c70fd3b50a9563b4ad9c8336c249550d5da1e00427",
+            "addy": "LSAEGv7jQDzcUsjAGj495J99oDdYL2ucF1",
+            "id": "TrvFtKbMoM",
+            "owner": 879925738151747585,
+            "reciev": 1094102183399669821,
+            "amount": 0.1
+        },
+        "bpezWdVNUA": {
+            "private": "3f3151ab04674f6d8e81222dc672f2ae87126e1c20ce3d818c8a0bd071f8d5cb",
+            "addy": "LWRKpDNxM8v3MEpPAHpH6mHtzbAzs9LYoQ",
+            "id": "bpezWdVNUA",
+            "owner": 879925738151747585,
+            "reciev": 1094102183399669821,
+            "amount": 0.08
+        },
+        "PZHsfPedJZ": {
+            "private": "5c9d17098ae1366d9845e0588436c721a63892e8687d48eab710e6eddbba0d54",
+            "addy": "LZuYEujqquHNdgwTu9mA4ZK1UsgPDpg6uT",
+            "id": "PZHsfPedJZ",
+            "owner": 928601790906236928,
+            "reciev": 0,
+            "amount": 0
+        },
+        "IrTOhntnMj": {
+            "private": "376f61135ddda7ca746ea78c8479f88eb27f37240c7b489400acf1f6790797c4",
+            "addy": "LViMyGe6ncZv8P7R8mgjh22pVFpqtc71cB",
+            "id": "IrTOhntnMj",
+            "owner": 847339051181932554,
+            "reciev": 0,
+            "amount": 0
+        },
+        "SgeynyhUcc": {
+            "private": "5394703e05e3ed0ef2dddb5692ed35a84fb87092c073c981560d5c80e9346412",
+            "addy": "LSYhHBN7a7RNKGVtHDfMxuLnSbmdGgXdJf",
+            "id": "SgeynyhUcc",
+            "owner": 1021055093929427084,
+            "reciev": 847339051181932554,
+            "amount": 4.82672072
+        },
+        "vrEELByOuP": {
+            "private": "f96286fe50a00c6e6098b3f283c1dc5f3bcfbc70d025134c165352e7af7c1c5d",
+            "addy": "LNy3G6EHqcNkJWYSy72bzirQpD9pGs65hd",
+            "id": "vrEELByOuP",
+            "owner": 847339051181932554,
+            "reciev": 847339051181932554,
+            "amount": 0.0482672
+        },
+        "omhdPoGqxg": {
+            "private": "b687eca994702e77c7fe0669242be0151f6af8cc02f29e0203536a8a15416fdd",
+            "addy": "LaEZAHyb9bNdVji1YPm57kMCfuMSvy5hq1",
+            "id": "omhdPoGqxg",
+            "owner": 1021055093929427084,
+            "reciev": 847339051181932554,
+            "amount": 0.00096786
+        },
+        "fBMgnJChMK": {
+            "private": "57ca556da23d698cf173d4959b77395f445cc26de943a393164ce40d0f9d3235",
+            "addy": "LXMRvEJqAxHgFLXjudXRFmcD2qV9SMDWv4",
+            "id": "fBMgnJChMK",
+            "owner": 1141038059320782908,
+            "reciev": 0,
+            "amount": 0
+        },
+        "lDnbEfMaNy": {
+            "private": "e1b1a8ff8676c9fada4bc10079e323b0167e87f30614044746dea4160c3d2970",
+            "addy": "La8PdmWAyS7m6GTtfXv9FSr5o7fEsj2ucB",
+            "id": "lDnbEfMaNy",
+            "owner": 1141038059320782908,
+            "reciev": 0,
+            "amount": 0
+        },
+        "PDpsWRqdlx": {
+            "private": "4dd61d2bc16a2d1079a9e64ddb659e6fdf7649b81066df498657a31951a39b12",
+            "addy": "LdAz6W8iedAy3viAWptU3r9pW2g99hVnRo",
+            "id": "PDpsWRqdlx",
+            "owner": 734637078330998885,
+            "reciev": 847339051181932554,
+            "amount": 0.10229132
+        },
+        "WPOMcXLJkZ": {
+            "private": "a84318836389c295861f179bdd8d0b208c57fbf29fa4384154b242494d8a0c93",
+            "addy": "LeNg2WKdxuYGgyH6JmBSZLyctDvberXxjh",
+            "id": "WPOMcXLJkZ",
+            "owner": 734637078330998885,
+            "reciev": 0,
+            "amount": 0
+        },
+        "IXMNuQkqff": {
+            "private": "a8edef0857a86b93b8d7c8b543affa9f6e97969ff57096ae19bd972998959357",
+            "addy": "LYqp8FRPqjZajUsPgsno59dMbSt2xAGEDw",
+            "id": "IXMNuQkqff",
+            "owner": 734637078330998885,
+            "reciev": 0,
+            "amount": 0
+        },
+        "ZWVaVSpilp": {
+            "private": "0b1d0ae7414b00fd81b03b2837267f79bab477e9f1558b3669998828039d79d5",
+            "addy": "LPN3mzKVvCQrkdwAEuqUyDZJV43urmALTV",
+            "id": "ZWVaVSpilp",
+            "owner": 847339051181932554,
+            "reciev": 0,
+            "amount": 0
+        },
+        "giHSItovAT": {
+            "private": "1e94ec746756ef0ce8e104002f3df92ed3c1875cf304169bb473b05934857b0b",
+            "addy": "LKUg4jRvNkDGewomb19bxgNzpmhy7iBGnu",
+            "id": "giHSItovAT",
+            "owner": 605422153588015108,
+            "reciev": 605422153588015108,
+            "amount": 0.99740674
+        },
+        "dad": {
+            "private": "None",
+            "addy": "None",
+            "id": "None",
+            "owner": 0,
+            "reciev": 0,
+            "amount": 0
+        },
+        "RrUditnExS": {
+            "private": "54b2e7cc13e3979ff96127a396e85b19a82de48576b1e28d892896279323033f",
+            "addy": "LRMYgmfpJoSRfihn41sZv87zHsF6EkcAWW",
+            "id": "RrUditnExS",
+            "owner": 1128593602021445683,
+            "reciev": 734637078330998885,
+            "amount": 0.0595179
+        },
+        "cgctrKEJDn": {
+            "private": "69a5b5064ad20ab09c54eb1095bf5a904dceaa53fa87765ef1a6e4c6d320a391",
+            "addy": "LYbdzRQW1CYHjoo7oDL5HbUcyvvaSYTaka",
+            "id": "cgctrKEJDn",
+            "owner": 1128593602021445683,
+            "reciev": 734637078330998885,
+            "amount": 0.0595179
+        }
+    }
+}
